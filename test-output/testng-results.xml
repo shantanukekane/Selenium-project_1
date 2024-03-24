@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-14T21:38:08 IST" name="Default suite" finished-at="2024-03-14T21:38:32 IST" duration-ms="24492">
+    <groups>
+    </groups>
+    <test started-at="2024-03-14T21:38:08 IST" name="Default test" finished-at="2024-03-14T21:38:32 IST" duration-ms="24492">
+      <class name="day39_copy.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:day39_copy.LoginTest@7f0eb4b4]" started-at="2024-03-14T21:38:08 IST" name="setup" finished-at="2024-03-14T21:38:26 IST" duration-ms="18649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checklogopresent()[pri:1, instance:day39_copy.LoginTest@7f0eb4b4]" started-at="2024-03-14T21:38:26 IST" name="checklogopresent" finished-at="2024-03-14T21:38:27 IST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checklogopresent -->
+        <test-method signature="clickLoginButton()[pri:2, instance:day39_copy.LoginTest@7f0eb4b4]" started-at="2024-03-14T21:38:27 IST" name="clickLoginButton" finished-at="2024-03-14T21:38:30 IST" duration-ms="2832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoginButton -->
+        <test-method signature="myAccPresent()[pri:3, instance:day39_copy.LoginTest@7f0eb4b4]" started-at="2024-03-14T21:38:30 IST" name="myAccPresent" finished-at="2024-03-14T21:38:30 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAccPresent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:day39_copy.LoginTest@7f0eb4b4]" started-at="2024-03-14T21:38:30 IST" name="tearDown" finished-at="2024-03-14T21:38:32 IST" duration-ms="2392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- day39_copy.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
